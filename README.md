@@ -30,6 +30,7 @@ A simple 2D shooting game made using Python and Pygame. The player controls a fi
    ```bash
    git clone https://github.com/yourusername/shooter-game.git
    cd shooter-game
+   ```
 
 
 2. **Install dependencies**
